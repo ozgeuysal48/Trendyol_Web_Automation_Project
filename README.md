@@ -4,6 +4,7 @@ Report:
 ![alt text](https://github.com/ozgeuysal48/Trendyol_Web_Automation_Project/blob/main/target/report-output.png)
 
 Steps output:
+
 Given open Trendyol homepage                                                # steps.StepDefinitions.openTheHomepage()
 
   When type masa üstü bilgisayar on the search box and click to search button # steps.StepDefinitions.typeTextAndEnter()
